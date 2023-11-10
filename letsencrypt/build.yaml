@@ -9,7 +9,7 @@ codenotary:
   signer: notary@home-assistant.io
   base_image: notary@home-assistant.io
 args:
-  CRYPTOGRAPHY_VERSION: 40.0.2
+  CRYPTOGRAPHY_VERSION: 36.0.2
   CERTBOT_DNS_AZURE_VERSION: 2.4.0
   CERTBOT_DNS_DIRECTADMIN_VERSION: 1.0.3
   CERTBOT_DNS_HETZNER_VERSION: 2.0.0
